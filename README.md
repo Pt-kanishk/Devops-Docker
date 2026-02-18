@@ -1,115 +1,83 @@
-🚀 DevOps-Docker
+# 🚀 DevOps-Docker
 
-This repository contains my hands-on practice and learning journey of Docker as part of my DevOps preparation.
+Welcome to **DevOps-Docker**!  
+This repository documents my hands-on learning journey with **Docker** and DevOps fundamentals through practical implementation.
 
-I am learning Docker step-by-step through practical implementation and pushing all commands, projects, and experiments here.
+All experiments, commands, projects, and notes related to Docker are maintained here as part of my continuous learning process.
 
-📌 Objectives
+---
 
-Understand Docker fundamentals
+## 📌 About This Repository
 
-Learn containerization concepts
+This repository is created to:
 
-Build and run Docker containers
+- Learn Docker from basics to advanced level
+- Practice containerization using real applications
+- Understand DevOps workflows
+- Maintain organized documentation
+- Build strong practical DevOps skills
 
-Work with Docker images
+---
 
-Create Dockerfiles
+## 🎯 Learning Objectives
 
-Use Docker volumes and networks
+- Understand Docker architecture
+- Learn container lifecycle
+- Create and manage images
+- Write Dockerfiles
+- Work with volumes and networks
+- Use Docker Compose
+- Deploy applications using containers
+- Prepare for DevOps roles and internships
 
-Docker Compose basics
+---
 
-Deploy simple applications using Docker
+## 📂 Repository Structure
 
-📂 Repository Structure
 DevOps-Docker/
 │
 ├── README.md
 ├── Docker_Python_App_Commands.docx
-├── projects/
-│   ├── project1/
-│   ├── project2/
 │
 ├── dockerfiles/
-│   ├── basic-dockerfile/
+│ ├── basic/
+│ └── advanced/
+│
+├── projects/
+│ ├── python-app/
+│ ├── node-app/
 │
 └── notes/
 
 
-(Structure will grow as I progress.)
+*(The structure will expand as learning progresses.)*
 
-🐳 Topics Covered
+---
 
-✅ What is Docker?
+## 🐳 Topics Covered
 
-✅ Docker Architecture
+### ✅ Completed
+- Introduction to Docker
+- Docker Installation
+- Docker Architecture
+- Basic Commands
+- Images and Containers
+- Dockerfile Basics
 
-✅ Docker Installation
+### ⏳ In Progress / Upcoming
+- Docker Volumes
+- Docker Networks
+- Docker Compose
+- Multi-container Applications
+- CI/CD Integration
+- Cloud Deployment
 
-✅ Basic Commands
+---
 
-docker pull
 
-docker run
 
-docker ps
-
-docker images
-
-docker stop
-
-docker rm
-
-✅ Dockerfile
-
-⏳ Docker Volumes
-
-⏳ Docker Networks
-
-⏳ Docker Compose
-
-🛠 Practice Projects
-1️⃣ Python App using Docker
-
-Created Dockerfile
-
-Built custom image
-
-Ran container on local system
-
-(More projects will be added soon.)
-
-💻 Commands Reference
-
-All Docker commands I practice are documented in:
-
-📄 Docker_Python_App_Commands.docx
-
-🎯 Goal
-
-To become confident in:
-
-Containerization
-
-DevOps fundamentals
-
-Deployment workflow
-
-Real-world Docker usage
-
-🔥 Future Plans
-
-Integrate Docker with Node.js project
-
-Deploy application using Docker Compose
-
-Connect with CI/CD pipeline
-
-Deploy on cloud (AWS)
-
-👨‍💻 Author
-
-Kanishk Parashar
 B.Tech CSE (Data Science Minor)
-Learning DevOps | DSA | Backend Development
+DevOps & Backend Enthusiast
+
+📍 India
+📫 GitHub: https://github.com/pt-kanishk
